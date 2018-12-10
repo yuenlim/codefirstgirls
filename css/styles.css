@@ -17,7 +17,7 @@
 }
 
 .hero-image {
-  background: url(hero.jpeg) no-repeat center;
+  background: url(img/hero.jpeg) no-repeat center;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(hero.jpeg);
   background-size: cover;
   height: 450px;
